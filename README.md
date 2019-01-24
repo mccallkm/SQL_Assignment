@@ -1,2 +1,2 @@
-# SQL_Assignment
-sql
+# SQL_Exploration
+
